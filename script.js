@@ -329,7 +329,6 @@ function resetWeek() {
 
 // Initialisierung
 document.addEventListener('DOMContentLoaded', function() {
-    addTestData(); // Entferne diese Zeile später
 });
 
 // Export Funktion (später)
